@@ -14,7 +14,9 @@ export default function Section06() {
         <div className="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center place-content-center">
           <div className="grid grid-flow-col gap-14">
             {hotKeywords.keywords.map((keyword) => (
-              <Link to="/top_keywords" className="hover:underline">{keyword.keyword}</Link>
+              <Link to="/top_keywords" className="hover:underline">
+                {keyword.keyword}
+              </Link>
             ))}
           </div>
         </div>
