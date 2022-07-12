@@ -15,9 +15,8 @@ export default function Section05() {
                 className="block relative h-48 rounded overflow-hidden"
               >
                 <img
-                  alt="ecommerce"
-                  className="object-cover object-center w-full h-full block"
-                  src="https://dummyimage.com/420x260"
+                  alt="제습기"
+                  src="https://dnvefa72aowie.cloudfront.net/origin/article/202207/3dd58880e4aafd70ad9eed846d7eeff4a7d96ae4640cbd2c6b9d688d0c833bcb.webp?q=82&amp;s=300x300&amp;t=crop"
                 />
               </Link>
               <div className="mt-4">
@@ -36,9 +35,8 @@ export default function Section05() {
                 className="block relative h-48 rounded overflow-hidden"
               >
                 <img
-                  alt="ecommerce"
-                  className="object-cover object-center w-full h-full block"
-                  src="https://dummyimage.com/421x261"
+                  alt="스토케 트립트랩 팝니다."
+                  src="https://dnvefa72aowie.cloudfront.net/origin/article/202207/F5D78AAA60E9E41F280A3487DEAE3592EAD364D9F9FD9EE46B31AF9FFB3D3BC5.jpg?q=82&amp;s=300x300&amp;t=crop"
                 />
               </Link>
               <div className="mt-4">
@@ -57,9 +55,8 @@ export default function Section05() {
                 className="block relative h-48 rounded overflow-hidden"
               >
                 <img
-                  alt="ecommerce"
-                  className="object-cover object-center w-full h-full block"
-                  src="https://dummyimage.com/422x262"
+                  alt="위니아제습기"
+                  src="https://dnvefa72aowie.cloudfront.net/origin/article/202207/6754148c4d370f6e833f24b2a47a503ed4ec85b9370bbd7427a9b1747c5c78eb.webp?q=82&amp;s=300x300&amp;t=crop"
                 />
               </Link>
               <div className="mt-4">
@@ -78,9 +75,8 @@ export default function Section05() {
                 className="block relative h-48 rounded overflow-hidden"
               >
                 <img
-                  alt="ecommerce"
-                  className="object-cover object-center w-full h-full block"
-                  src="https://dummyimage.com/423x263"
+                  alt="냉동고"
+                  src="https://dnvefa72aowie.cloudfront.net/origin/article/202207/a8067d913a679458a5c6990971a3d3b7ac5e4bba5c50617eec7d5ac65ea41166.webp?q=82&amp;s=300x300&amp;t=crop"
                 />
               </Link>
               <div className="mt-4">
@@ -99,9 +95,8 @@ export default function Section05() {
                 className="block relative h-48 rounded overflow-hidden"
               >
                 <img
-                  alt="ecommerce"
-                  className="object-cover object-center w-full h-full block"
-                  src="https://dummyimage.com/424x264"
+                  alt="냉장고 팝니다."
+                  src="https://dnvefa72aowie.cloudfront.net/origin/article/202207/e6f19dc6799c610100e5dba4d2507913e8440f4770713d3404aecb80c62236f1.webp?q=82&amp;s=300x300&amp;t=crop"
                 />
               </Link>
               <div className="mt-4">
@@ -120,9 +115,8 @@ export default function Section05() {
                 className="block relative h-48 rounded overflow-hidden"
               >
                 <img
-                  alt="ecommerce"
-                  className="object-cover object-center w-full h-full block"
-                  src="https://dummyimage.com/425x265"
+                  alt="제습기"
+                  src="https://dnvefa72aowie.cloudfront.net/origin/article/202207/0b50653152da269372ca6085ae3113a7adacd984e47fe9ff1de8340858c1695c.webp?q=82&amp;s=300x300&amp;t=crop"
                 />
               </Link>
               <div className="mt-4">
@@ -141,9 +135,8 @@ export default function Section05() {
                 className="block relative h-48 rounded overflow-hidden"
               >
                 <img
-                  alt="ecommerce"
-                  className="object-cover object-center w-full h-full block"
-                  src="https://dummyimage.com/427x267"
+                  alt="전자레인지 필요하신분"
+                  src="https://dnvefa72aowie.cloudfront.net/origin/article/202207/11da9b7ee9a6e9d675b55e97a625bd07cf6e6a9dede363f11eb5102951216fbc.webp?q=82&amp;s=300x300&amp;t=crop"
                 />
               </Link>
               <div className="mt-4">
@@ -162,9 +155,8 @@ export default function Section05() {
                 className="block relative h-48 rounded overflow-hidden"
               >
                 <img
-                  alt="ecommerce"
-                  className="object-cover object-center w-full h-full block"
-                  src="https://dummyimage.com/428x268"
+                  alt="소프라노 섹소폰 일제"
+                  src="https://dnvefa72aowie.cloudfront.net/origin/article/202207/291E1483187E93D1B01F780D4E8435E6309FDE57F2F04CE409A82BA4786EF7D7.jpg?q=82&amp;s=300x300&amp;t=crop"
                 />
               </Link>
               <div className="mt-4">
