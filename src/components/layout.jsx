@@ -1,12 +1,12 @@
 import Header from "./layout/header";
 import Footer from "./layout/footer";
 
-export default function Layout({ children }) {
+export default function Layout({ children, theme}) {
   return (
     <>
-      <Header />
+      <Header theme={theme}/>
       <div>{children}</div>
-      <Footer />
+      <Footer theme={theme}/>
     </>
   );
 }
