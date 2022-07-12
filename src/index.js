@@ -3,6 +3,8 @@ import ReactDOM from "react-dom/client";
 import "./index.css";
 import App from "./app";
 import Jobs from "./pages/jobs";
+import HotArticles from "./pages/hotArticles";
+import TopKeywords from "./pages/topKeywords";
 import reportWebVitals from "./reportWebVitals";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
@@ -13,6 +15,8 @@ root.render(
     <Routes>
       <Route path="/" element={<App />} />
       <Route path="/kr/jobs" element={<Jobs />} />
+      <Route path="/hot_articles" element={<HotArticles />} />
+      <Route path="/top_keywords" element={<TopKeywords />} />
     </Routes>
   </BrowserRouter>
 );

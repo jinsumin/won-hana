@@ -1,9 +1,9 @@
 import Layout from "../components/layout";
 
-export default function Jobs() {
+export default function HotArticles() {
   return (
     <Layout>
-      <h1>알바 페이지</h1>
+      <h1>인기 매물 페이지</h1>
     </Layout>
   );
 }

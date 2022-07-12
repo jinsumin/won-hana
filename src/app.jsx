@@ -1,12 +1,5 @@
-import "./app.css";
-import Layout from "./components/layout";
+import Trade from "./pages/trade";
 
 export default function App() {
-  return (
-    <Layout>
-      <h1>
-        메인
-      </h1>
-    </Layout>
-  )
+  return <Trade />;
 }

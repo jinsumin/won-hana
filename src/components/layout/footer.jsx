@@ -1,3 +1,15 @@
 export default function Footer() {
-  return <>푸터</>;
+  return (<>
+    <footer className="">
+      <div>
+        <section>
+
+        </section>
+
+        <section>
+
+        </section>
+      </div>
+    </footer>
+  </>);
 }
